@@ -35,10 +35,6 @@
   background: #efefef;
 }
 
-.col-3 {
-  background: #efefef;
-}
-
 [class*="col-"] {
   margin-left: 2%;
 }
